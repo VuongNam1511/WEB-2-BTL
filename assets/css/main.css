@@ -1305,6 +1305,10 @@
     color: #e314d5;
 }
 
+.footer-associate__icon--twitter {
+    color: #1DA1F2;
+}
+
 .footer-associate__link {
     text-decoration: none;
     color: var(--text-color);
